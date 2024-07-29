@@ -40,9 +40,7 @@ import io.github.yavski.fabspeeddial.FabSpeedDial;
 import com.squareup.picasso.Picasso;
 import static com.facebook.share.internal.DeviceShareDialogFragment.TAG;
 
-/**
- * Created by omarelamri on 10/04/2018.
- */
+ 
 
 public class FragmentSearch extends android.support.v4.app.Fragment {
     View v;
