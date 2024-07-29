@@ -46,9 +46,7 @@ import io.github.yavski.fabspeeddial.FabSpeedDial;
 
 import static android.app.Activity.RESULT_OK;
 
-/**
- * Created by omarelamri on 10/04/2018.
- */
+ 
 
 public class FragmentSettings extends Fragment {
     View v;
