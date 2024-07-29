@@ -30,9 +30,7 @@ import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.Locale;
 
-/**
- * Created by omarelamri on 10/04/2018.
- */
+ 
 
 public class FragmentAdd extends Fragment {
     public Rides rides;
