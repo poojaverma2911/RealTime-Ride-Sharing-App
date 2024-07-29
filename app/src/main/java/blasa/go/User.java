@@ -1,8 +1,6 @@
 package blasa.go;
 
-/**
- * Created by omarelamri on 04/04/2018.
- */
+ 
 
 public class User {
     private String id;
