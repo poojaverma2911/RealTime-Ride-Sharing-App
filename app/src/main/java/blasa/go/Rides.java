@@ -1,8 +1,6 @@
 package blasa.go;
 
-/**
- * Created by omarelamri on 25/04/2018.
- */
+ 
 
 public class Rides {
     private String start;
